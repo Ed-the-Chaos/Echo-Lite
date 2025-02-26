@@ -33,4 +33,4 @@ Echo-Lite is a self-refining intelligence framework designed to function as an i
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/echo-lite.git
-   cd echo-liteECHO is on.
+   cd echo-lite
